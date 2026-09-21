@@ -57,7 +57,7 @@ Ambrose Alli University
 📧 Email: **erneski7@gmail.com**
 
 💼 LinkedIn:
-https://www.linkedin.com/in/ernest-ojugo-212b75438
+https://www.linkedin.com/in/ernest-ojugo
 
 🌐 Portfolio:
 https://erneski-7.github.io/ojugo *(Enable GitHub Pages when ready.)*
